@@ -16,3 +16,9 @@ html{
    overflow: hidden;
 }
 
+body{
+   background-color: #c9c9c9;
+}
+header{
+   background-color: red;
+}
